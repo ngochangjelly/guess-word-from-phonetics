@@ -13,7 +13,7 @@
   },
   "description": "International Phonetic Alphabet RESTful API for words",
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^10.1.0",
     "supertest": "^1.2.0"
   },
   "directories": {
